@@ -15,8 +15,17 @@ I'm a final year BTech student from IIT Goa, with a passion for blockchain and s
 - Solid understanding of blockchain fundamentals.
 - Proficient in programming languages like Solidity, JavaScript, Python, HTML, and CSS.
 - Experience with Ethereum, smart contract development, and blockchain platforms.
-- Knowledge of frameworks and libraries like Hardhat, Web3.js, React, and Node.js.
-- Familiarity with MERN stack, and modern web development practices.
+- Familiarity with Database systems, Axios APIs and modern web development practices.
+
+## Technologies I have worked with
+ - React
+ - Node.js
+ - MongoDB
+ - Express.js
+ - Hardhat
+ - Ethereum
+ - Web3.js
+ - Chainlink Oracles
 
 ## Projects
 
