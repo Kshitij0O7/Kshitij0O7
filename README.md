@@ -35,7 +35,7 @@ I'm a final year BTech student from IIT Goa, with a passion for blockchain and s
 
 ## Contact Me
 
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kshitij-mahajan-61a593205/)  or [Twitter](https://twitter.com/Kshitij007527)to stay updated on my latest projects and activities.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kshitij-mahajan-61a593205/)  or [Twitter](https://twitter.com/Kshitij007527) to stay updated on my latest projects and activities.
 - ✉️ Feel free to reach out to me via email at [ksmahajan001@gmail.com] for any inquiries or collaboration opportunities.
 
 Thank you for visiting my GitHub profile! Let's connect and create innovative solutions together!
