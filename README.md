@@ -31,10 +31,10 @@ I'm a final year BTech student from IIT Goa, with a passion for blockchain and s
 
 ## Projects
 
-- DevRewards - Web3 app that rewards open source contributions[Link](https://devrewards.vercel.app/).
-- QuizItAll - Fullstack MCQ type quiz portal for different categories[Link](https://devrewards.vercel.app/).
-- NFTGifter - Generates images based on description and mint them for the specified address[Link](https://nftgifter.netlify.app/).
--  Start Exchange - Full stack blockchain app enabling startups and investors to meet and move money in a trustless manner[Link](https://startexchange.netlify.app/).
+- DevRewards - Web3 app that rewards open source contributions [[Link]](https://devrewards.vercel.app/).
+- QuizItAll - Fullstack MCQ type quiz portal for different categories [[Link]](https://devrewards.vercel.app/).
+- NFTGifter - Generates images based on description and mint them for the specified address [[Link]](https://nftgifter.netlify.app/).
+-  Start Exchange - Full stack blockchain app enabling startups and investors to meet and move money in a trustless manner [[Link]](https://startexchange.netlify.app/).
 
 ## Contact Me
 
