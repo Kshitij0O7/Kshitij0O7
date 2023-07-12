@@ -26,12 +26,15 @@ I'm a final year BTech student from IIT Goa, with a passion for blockchain and s
  - Ethereum
  - Web3.js
  - Chainlink Oracles
+ - Docker
+ - Netlify
 
 ## Projects
 
-- List some notable projects you've worked on in both blockchain and full-stack web development.
-- Highlight the key features, technologies, and your contributions to each project.
-- Provide links or references to the project repositories or live demos if available.
+- DevRewards - Web3 app that rewards open source contributions[Link](https://devrewards.vercel.app/).
+- QuizItAll - Fullstack MCQ type quiz portal for different categories[Link](https://devrewards.vercel.app/).
+- NFTGifter - Generates images based on description and mint them for the specified address[Link](https://nftgifter.netlify.app/).
+-  Start Exchange - Full stack blockchain app enabling startups and investors to meet and move money in a trustless manner[Link](https://startexchange.netlify.app/).
 
 ## Contact Me
 
