@@ -6,7 +6,7 @@ I'm a final year BTech student from IIT Goa, with a passion for blockchain and s
 
 ## About Me
 
-- DevRel at Bitquery
+- 👨‍💻 DevRel at Bitquery
 - 🎓 BTech Graduate from IIT Goa.
 - 💡 Experienced in blockchain and smart contract development.
 - 👨‍💻 Proficient in full-stack web development.
