@@ -21,16 +21,17 @@ I'm a BTech graduate from IIT Goa who is currently working as a DevRel @Bitquery
 - Familiarity with Database systems, Axios APIs and modern web development practices.
 
 ## Technologies I have worked with
+ - gRPC and Kafka Streams
+ - Protobuf
+ - Websocket
  - React
  - Node.js
  - MongoDB
  - Express.js
  - Hardhat
- - Ethereum
  - Web3.js
  - Chainlink Oracles
  - Docker
- - Netlify
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
