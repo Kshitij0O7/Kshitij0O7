@@ -2,7 +2,7 @@
 
 I'm a BTech graduate from IIT Goa who is currently working as a DevRel @Bitquery, with a passion for blockchain and smart contract development. Additionally, I have experience in full-stack web development, allowing me to create end-to-end solutions. I'm constantly exploring and learning to stay up-to-date with the latest advancements in both fields. 
 
-<a href='https://ksaboy.notion.site/Kshitij-Mahajan-fc1b6ee712eb4fe2b5b8ecba5bb65804?pvs=4'>About Me</a>
+<a href='https://its-kshitij.vercel.app'>About Me</a>
 
 ## About Me
 
